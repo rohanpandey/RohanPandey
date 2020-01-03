@@ -1135,11 +1135,12 @@ button:focus {
 
 .image {
   display: block;
-  width: 100%;
-  height: auto;
+  width: 700px;
+  height: 450px;
   border-radius: 10px;
   border: 7px solid #ddd;
 }
+
 
 .overlay {
   position: absolute;
