@@ -967,6 +967,20 @@ button:focus {
 	display: none;
 }
 
+#mu-media {
+	background-color: #fff;
+	display: inline;
+	float: left;
+	width: 100%;
+}
+
+
+.mu-media-area {
+	display: inline;
+	float: left;
+	padding: 100px 30%;
+	width: 100%;
+}
 
 /*--------------------*/
 /* CONTACT US */
@@ -982,7 +996,7 @@ button:focus {
 .mu-contact-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 0px 0;
 	width: 100%;
 }
 
