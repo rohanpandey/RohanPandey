@@ -461,7 +461,7 @@ button:focus {
 
 
 #mu-about {
-	background-color: #f7f7f7;
+	background-color: #f9f9f9;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -603,6 +603,7 @@ button:focus {
 
 
 #mu-service {
+	background-color: #f9f9f9;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -611,7 +612,7 @@ button:focus {
 .mu-service-area {
 	display: inline;
 	float: left;
-	padding: 100px 0;
+	padding: 10px 0;
 	width: 100%;
 }
 
@@ -641,6 +642,7 @@ button:focus {
 	display: inline;
 	float: left;
 	text-align: center;
+	height: 250px;
 	margin-top: 15px;
 	margin-bottom: 15px;
 	padding: 25px 10px;
@@ -690,6 +692,11 @@ button:focus {
 }
 
 .mu-service-content-single:hover{
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
+.mu-service-content-single1:hover{
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 
 }
@@ -968,7 +975,7 @@ button:focus {
 }
 
 #mu-media {
-	background-color: #fff;
+	background-color: #f9f9f9;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -978,7 +985,7 @@ button:focus {
 .mu-media-area {
 	display: inline;
 	float: left;
-	padding: 100px 30%;
+	padding: 10px 30%;
 	width: 100%;
 }
 
@@ -987,7 +994,7 @@ button:focus {
 /*--------------------*/
 
 #mu-contact {
-	background-color: #fff;
+	background-color: #f9f9f9;
 	display: inline;
 	float: left;
 	width: 100%;
@@ -996,7 +1003,7 @@ button:focus {
 .mu-contact-area {
 	display: inline;
 	float: left;
-	padding: 0px 0;
+	padding: 100px 0;
 	width: 100%;
 }
 
